@@ -1,4 +1,4 @@
-#  
+#  Bear for macOS vip Script - multi-device sync and auto-sync is the best Bear for macOS script, featuring multi-device sync and auto-sync. Safe, efficient, and optimized for macOS
 
 
 
